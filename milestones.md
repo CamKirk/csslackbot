@@ -1,0 +1,3 @@
+- want the ability to listen to users for requests for tech questions
+- option 1: user says something, a question is sent
+- option 2: channel periodically receives tech questions
